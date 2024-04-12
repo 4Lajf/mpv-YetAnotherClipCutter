@@ -1,4 +1,4 @@
-## Fork chnges
+## Fork changes
 
 - added `slicing-mark` that enables cutting video by pressing only one shortcut instead of two.
 - refactored the helper functions and `cut_mode = 1` to be - what i believe - more readable and give feedback when execution ends.
